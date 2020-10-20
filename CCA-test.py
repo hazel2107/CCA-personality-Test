@@ -16,10 +16,15 @@ outdoor2 = input("I'm good with tying knots and ropes.")
 
 music2 = input("I play a musical instrument well.")
 
+sports3 = input("I like to exercise.")
 
-sports_final = int(sports1) + int(sports2)
-outdoor_final = int(outdoor1) + int(outdoor2)
-music_final = int(music1)+ int(music2)
+outdoor3 = ("I like nature and greenery.")
+
+music3 = ("I like listening to music.")
+
+sports_final = int(sports1) + int(sports2) + int(sports3)
+outdoor_final = int(outdoor1) + int(outdoor2) + int(outdoor3)
+music_final = int(music1)+ int(music2) + int(music3)
 
 print()
 
