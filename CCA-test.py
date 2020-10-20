@@ -18,7 +18,7 @@ music2 = input("I play a musical instrument well.")
 
 sports3 = input("I like to exercise.")
 
-outdoor3 = ("I like nature and greenery.")
+outdoor3 = ("I like nature.")
 
 music3 = ("I like listening to music.")
 
